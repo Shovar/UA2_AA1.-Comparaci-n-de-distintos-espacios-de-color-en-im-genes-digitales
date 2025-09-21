@@ -28,7 +28,7 @@ Cada espacio se analiza con ejemplos prácticos, visualizaciones comparativas y 
 ### RGB (Red, Green, Blue)
 - **Aplicaciones**: Visualización, captura de imágenes, processing básico
 - **Ventajas**: Intuitivo, estándar en dispositivos
-- **Análisis**: Separación de canales, histogramas, correlaciones
+- **Análisis**: Separación de canales, histogramas
 
 ### HSV (Hue, Saturation, Value)
 - **Aplicaciones**: Segmentación por color, detección de objetos
@@ -65,7 +65,7 @@ Cada espacio se analiza con ejemplos prácticos, visualizaciones comparativas y 
 
 ```bash
 # Clonar o descargar el proyecto
-cd Entrega2
+cd UA2_AA1.-Comparaci-n-de-distintos-espacios-de-color-en-im-genes-digitales
 
 # Instalar dependencias
 pip install -r requirements.txt
@@ -92,7 +92,7 @@ jupyter notebook espacios_color.ipynb
 ## 📁 Estructura del Proyecto
 
 ```
-Entrega2/
+UA2_AA1.-Comparaci-n-de-distintos-espacios-de-color-en-im-genes-digitales/
 ├── espacios_color.ipynb    # Notebook principal
 ├── requirements.txt        # Dependencias del proyecto
 ├── README.md              # Documentación (este archivo)
@@ -103,4 +103,4 @@ Entrega2/
     └── tonos_piel.png     # Tonos para detección YCrCb
 ```
 
-**Antonio García Alcón** | **Sistemas de percepción** | **2025**# UA2_AA1.-Comparaci-n-de-distintos-espacios-de-color-en-im-genes-digitales
+**Antonio García Alcón** | **Sistemas de percepción** | **2025**
