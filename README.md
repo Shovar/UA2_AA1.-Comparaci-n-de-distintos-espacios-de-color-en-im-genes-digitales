@@ -21,45 +21,21 @@ Este proyecto examina seis espacios de color fundamentales en visión por ordena
 - **Escala de Grises** - Para aplicaciones binarias
 - **XYZ** - CIE 1931 color space
 
-Cada espacio se analiza con ejemplos prácticos, visualizaciones comparativas y aplicaciones reales en visión por ordenador.
-
-## Espacios de Color Analizados
-
-### RGB (Red, Green, Blue)
-- **Aplicaciones**: Visualización, captura de imágenes, processing básico
-- **Ventajas**: Intuitivo, estándar en dispositivos
-- **Análisis**: Separación de canales, histogramas
-
-### HSV (Hue, Saturation, Value)
-- **Aplicaciones**: Segmentación por color, detección de objetos
-- **Ventajas**: Robusto a cambios de iluminación
-- **Análisis**: Segmentación automática, tracking de colores
-
-### CIELAB (L*a*b*)
-- **Aplicaciones**: Control de calidad, diferencias perceptuales
-- **Ventajas**: Uniforme perceptualmente, Delta E preciso
-- **Análisis**: Cálculo de diferencias de color, matching cromático
-
-### YCrCb
-- **Aplicaciones**: Detección de piel, compresión de video
-- **Ventajas**: Separación luminancia/cromaticidad
-- **Análisis**: Detección de tonos de piel, análisis Cr-Cb
-
-### Escala de Grises
-- **Aplicaciones**: OCR, códigos de barras, análisis estructural
-- **Ventajas**: Máxima eficiencia computacional
-- **Análisis**: Métodos de conversión, binarización, detección de bordes
-
-### XYZ (CIE 1931)
-- **Aplicaciones**: Calibración, investigación, estándares
-- **Ventajas**: Referencia absoluta, independiente del dispositivo
-- **Análisis**: Temperatura de color, coordenadas de cromaticidad
-
 ## Instalación
 
 ### Requisitos Previos
 - Python 3.8 o superior
 - pip (gestor de paquetes de Python)
+
+
+### Versiones de las librerías usadas: 
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+jupyter>=1.0.0
+ipykernel>=6.25.0
+pillow>=10.0.0
 
 ### Instalación de Dependencias
 
