@@ -73,9 +73,11 @@ UA2_AA1.-Comparaci-n-de-distintos-espacios-de-color-en-im-genes-digitales/
 ├── README.md              # Documentación (este archivo)
 └── data/                  # Imágenes generadas automáticamente
     ├── gradiente_rgb.png  # Gradientes de colores primarios
-    ├── colores_saturados.png # Colores puros para HSV
+    ├── colores_saturados.png # Colores puros 
     ├── codigo_barras.png  # Patrón para análisis binario
     └── tonos_piel.png     # Tonos para detección YCrCb
+    └── espectro_hsv.png    # Espectro completo de HSV
+    └── formas_geometricas.png  # Formas geometricas de diferentes colores y formas
 ```
 
 **Antonio García Alcón** | **Sistemas de percepción** | **2025**
