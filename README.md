@@ -5,7 +5,6 @@ Este proyecto presenta un análisis completo de diferentes espacios de color y s
 ## Contenidos
 
 - [Descripción](#descripción)
-- [Espacios de Color Analizados](#espacios-de-color-analizados)
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
