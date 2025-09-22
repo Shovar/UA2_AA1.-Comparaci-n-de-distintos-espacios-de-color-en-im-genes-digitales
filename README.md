@@ -64,7 +64,7 @@ print("✓ Todas las librerías instaladas correctamente")
 jupyter notebook espacios_color.ipynb
 ```
 
-### Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 UA2_AA1.-Comparaci-n-de-distintos-espacios-de-color-en-im-genes-digitales/
